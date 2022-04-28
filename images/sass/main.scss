@@ -1,0 +1,32 @@
+// roof
+@import "./utils/variables";
+// reset
+@import "./base/reset";
+// mixins
+@import "./utils/mixins";
+// common
+@import "./base/common";
+// container
+@import "./components/container";
+// hidden
+@import "./utils/hidden";
+
+// header
+@import "./layout/header";
+// hero
+@import "./layout/hero";
+//features
+@import "./layout/features";
+// service
+@import "./layout/service";
+// team
+@import "./layout/team";
+// clients
+@import "./layout/clients";
+// portfolio
+@import "./layout/portfolio";
+// footer
+@import "./layout/footer";
+
+// modal
+@import "./components/modal";
